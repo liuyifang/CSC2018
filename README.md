@@ -8,4 +8,4 @@ https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE114952
 
 Please download `GSE114952_AGG.tar.gz`, unzip it and use it as raw data.
 
-Questions and comments on this code can be e-mailed to liuyifang3000@gmail.com.
+Questions and comments on this code can be e-mailed to liuyifang3000@gmail.com or create new issue.
